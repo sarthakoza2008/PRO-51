@@ -1,0 +1,62 @@
+.header {
+    border-radius: 30ch;
+    color: red;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: sans-serif;
+    color: white;
+    
+}
+
+.info {
+    font-size: 20px;
+    font-weight: 400;
+    font-family: sans-serif;
+    background-color: rgb(0, 0, 0);
+    color: orange;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    background-color:#000000;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #ffffff;
+}
+
+body {
+    margin: 0px;
+    background-color: whitesmoke;
+}
+
+.how{
+    color: orange;
+}
+
+.grid img{
+   border: 10px solid rgb(0, 0, 0);
+   border-radius: 50px;
+}
+
+.origami img{
+    border-radius: 20px;
+    background-color:#000000;
+    padding: 1  0px;
+    margin: 12px;
+    width: 310px;
+    font-family: fantasy;
+    font-size: 10px
+}
+
+.origami{
+    display: flexbox;
+   justify-content: space-between;
+    color: blue;
+}
+
+.THANKYOU{
+    color: yellow;
+    font-family: serif;
+    background-color: darkred;
+}
